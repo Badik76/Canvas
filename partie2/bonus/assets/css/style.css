@@ -1,0 +1,17 @@
+body {
+text-align: center;
+font-family: 'Mali', cursive;
+background-color:white;
+background-image:url(../img/bg_big2.jpg);
+background-size: 100%;
+background-repeat: no-repeat;
+color: white;
+}
+
+.rem10 {
+  font-size: 1rem;
+}
+
+#mon_canvas {
+  border: 2px solid white;
+}
